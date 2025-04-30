@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/style.css">
+  <title>Learn and Grow!</title>
+  <link rel="icon" href="file9log.png" type="image/png">
+  <link rel="stylesheet" href=" lgs.css" > 
+ 
+  </head>
+<hr
+<body>
+<nav>
+    <a href="#home">home </a>
+     <a href="#aboutus">aboutus</a>
+     <a href="#worksheets">worksheets</a>
+     <a href="#contact">contact </a>
+    
+ </nav>
+    <hr>
+  
+     <section id="home">
+       <h1>learn and  grow</h1>
+  <p>Fun and engaging worksheets for kids — daily activities to train young minds and spark creativity!
+</p>
+       <img src="imageshtml/fd.jpg"  alt="ad"  title="learn more" width="100"  height="90">
+       <hr>
+    
+      <h2> worksheets</h2>
+      <p>  Explore a variety of worksheets to help your child learn letters, numbers, shapes, and more—designed to build skills in a fun way!</p>
+      
+     </section>
+  
+   <section id="aboutus">
+      <h2>Daily Brain Training Activities</h2>
+      <p>From puzzles to matching games, our daily activities are perfect for keeping kids engaged and boosting their thinking power.</p>
+    </section>
+  <hr>
+  <section id="worksheets">
+    <h2> worksheets</h2>
+       <p>Writing doesn't have to be boring! Try creative storytelling, drawing letters with colors, or using magnetic letters for a playful learning experience.
+         </p>
+   </section>
+  <hr>
+     <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email us at: sowbarnikasowba1995@ gmail.com</p>
+      <p>Follow us on social media for updates and free downloads!</p>
+       
+    </section>
+  <hr>
+    
+    
+  
+  </body>
+</html>
